@@ -1,4 +1,4 @@
-### Hi there this is my GitHub profile 👋
+### Hi there  👋
 
 <!--
 **Void-11/Void-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
